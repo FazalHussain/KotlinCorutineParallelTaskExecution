@@ -1,0 +1,2 @@
+rootProject.name='ParallelTaskUsingCoroutine'
+include ':app'
